@@ -4,6 +4,8 @@
 	xmlns='http://www.ehcache.org/v3'
 	xsi:schemaLocation="http://www.ehcache.org/v3 http://www.ehcache.org/schema/ehcache-core.xsd">
 
+	<!-- 持久化文件路径-->
+	
 	<persistence directory="ehcacheTestDisk" />
 
 
